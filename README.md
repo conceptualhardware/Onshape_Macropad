@@ -57,23 +57,24 @@ c
 
 Intended macro codes
 
-e
-h
-v
+e,
+h,
+v,
 i
 
-S+F
-c
-g
+S+F,
+c,
+g,
 l
-C+C
-C+V
-d
+
+C+C,
+C+V,
+d,
 s+e
 
-S+5
-S+1
-SB
+S+5,
+S+1,
+SB,
 ESC
 
 C+ = Ctrl
@@ -85,8 +86,11 @@ Colors
 (by row)
 
 Green
+
 Red
+
 Yellow
+
 Blue
  
 The colors are shown only when the key is pressed.
