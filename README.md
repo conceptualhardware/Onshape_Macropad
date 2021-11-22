@@ -34,9 +34,9 @@ Initial Layout w/ default code from Pimoroni
 
 (as viewed looking straight at it)
 
-3   
-7   
-b   
+3  
+7
+b
 f
 
 2
@@ -57,10 +57,10 @@ c
 
 Intended macro codes
 
-\e  , h  , v , i\
-\S+F, c  , g , l\
-\C+C, C+V, d , s+e\
-\S+5, S+1, SB, ESC\
+e  , h  , v , i
+S+F, c  , g , l
+C+C, C+V, d , s+e
+S+5, S+1, SB, ESC
 
 C+ = Ctrl
 S+ = Shift
@@ -68,15 +68,11 @@ SB = spacebar
 Esc = escape
 
 Colors
-
 (by row)
 
 Green
-
 Red
-
 Yellow
-
 Blue
  
 The colors are shown only when the key is pressed.
