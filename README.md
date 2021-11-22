@@ -29,6 +29,8 @@ Assembly steps are as follows:
 7. Save, then unplug and replug in macropad
 8. Start up Onshape and work on designs.
 
+__
+
 
 Initial Layout w/ default code from Pimoroni
 
@@ -54,6 +56,8 @@ d
 8
 c
 
+__
+
 
 Intended macro codes
 
@@ -77,6 +81,8 @@ S+1,
 SB,
 ESC
 
+__
+
 
 
 Legend:
@@ -89,8 +95,8 @@ SB = spacebar
 
 Esc = escape
 
-
-
+__
+ 
 Colors
 (by row)
 
@@ -102,8 +108,8 @@ Yellow
 
 Blue
 
-
-
+__
+ 
 The colors are shown only when the key is pressed.
 
 This makes use of the Adafruit HID Keyboard codes.
