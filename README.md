@@ -41,7 +41,7 @@ Green
 Red
 Yellow
 Blue
-
+ 
 The colors are shown only when the key is pressed.
 
 This makes use of the Adafruit HID Keyboard codes.
