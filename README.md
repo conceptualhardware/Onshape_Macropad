@@ -17,10 +17,10 @@ Assembly steps are as follows:
 Initial Layout w/ default code from Pimoroni
 (as viewed looking straight at it)
 
-3 7 b f
-2 6 a e
-1 5 9 d
-0 4 8 c
+3   7   b   f
+2   6   a   e
+1   5   9   d
+0   4   8   c
 
 Intended macro codes
 
