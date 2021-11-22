@@ -77,6 +77,9 @@ S+1,
 SB,
 ESC
 
+
+Legend:
+
 C+ = Ctrl
 
 S+ = Shift
@@ -84,6 +87,7 @@ S+ = Shift
 SB = spacebar
 
 Esc = escape
+
 
 
 Colors
