@@ -13,7 +13,7 @@ This is a macropad built using the Pimoroni Keybow and the KPrepublic Enclosure.
 [pimoroni_keybow](https://shop.pimoroni.com/products/keybow-2040?variant=39328275300435)
 
 
-![kprepublic_enclosure](https://cdn.shopify.com/s/files/1/2711/4238/products/JJ4x4case-4_1x1.jpg)
+![kprepublic_enclosure](https://cdn.shopify.com/s/files/1/2711/4238/products/JJ4x4case-11.jpg?v=1617001143)
 
 [kprepublic enclosure](https://kprepublic.com/products/anodized-aluminium-cubic-case-for-jj4x4-jj4-custom-keyboard-acrylic-panels-stalinite-diffuser-can-support-rotary-brace-supporter)
 
@@ -57,10 +57,24 @@ c
 
 Intended macro codes
 
-e  , h  , v , i
-S+F, c  , g , l
-C+C, C+V, d , s+e
-S+5, S+1, SB, ESC
+e
+h
+v
+i
+
+S+F
+c
+g
+l
+C+C
+C+V
+d
+s+e
+
+S+5
+S+1
+SB
+ESC
 
 C+ = Ctrl
 S+ = Shift
