@@ -34,7 +34,7 @@ Initial Layout w/ default code from Pimoroni
 
 (as viewed looking straight at it)
 
-3  
+3
 7
 b
 f
@@ -78,9 +78,13 @@ SB,
 ESC
 
 C+ = Ctrl
+
 S+ = Shift
+
 SB = spacebar
+
 Esc = escape
+
 
 Colors
 (by row)
