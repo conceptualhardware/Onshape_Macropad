@@ -1,7 +1,18 @@
 # Onshape_Macropad
 Code for the onshape macropad.
 
+
+![onshape_macropad](https://github.com/conceptualhardware/Onshape_Macropad/blob/main/onshape_macropad.jpg)
+
+
 This is a macropad built using the Pimoroni Keybow and the KPrepublic Enclosure.  
+
+
+![pimoroni_keybow](https://cdn.shopify.com/s/files/1/0174/1800/products/keybow-2040-2_large.jpg?v=1618327651)
+[pimoroni_keybow](https://shop.pimoroni.com/products/keybow-2040?variant=39328275300435)
+
+![kprepublic enclosure](https://cdn.shopify.com/s/files/1/2711/4238/products/JJ4x4case-4_1x1.jpg?v=1617001142)
+[kprepublic enclosure](https://kprepublic.com/products/anodized-aluminium-cubic-case-for-jj4x4-jj4-custom-keyboard-acrylic-panels-stalinite-diffuser-can-support-rotary-brace-supporter)
 
 Assembly steps are as follows:
 0. Order parts and wait
@@ -17,17 +28,17 @@ Assembly steps are as follows:
 Initial Layout w/ default code from Pimoroni
 (as viewed looking straight at it)
 
-3   7   b   f
-2   6   a   e
-1   5   9   d
-0   4   8   c
+\3   7   b   f\
+\2   6   a   e\
+\1   5   9   d\
+\0   4   8   c\
 
 Intended macro codes
 
-e  , h  , v , i
-S+F, c  , g , l
-C+C, C+V, d , s+e
-S+5, S+1, SB, ESC
+\e  , h  , v , i\
+\S+F, c  , g , l\
+\C+C, C+V, d , s+e\
+\S+5, S+1, SB, ESC\
 
 C+ = Ctrl
 S+ = Shift
